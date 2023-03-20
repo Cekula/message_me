@@ -34,6 +34,9 @@ gem "jbuilder"
 gem 'semantic-ui-sass'
 gem 'jquery-rails'
 
+gem 'bcrypt', '~> 3.1', '>= 3.1.12'
+#gem for console so it can look like exel
+gem 'hirb'
 
 
 # Use Redis adapter to run Action Cable in production
