@@ -37,6 +37,7 @@ gem 'jquery-rails'
 gem 'bcrypt', '~> 3.1', '>= 3.1.12'
 #gem for console so it can look like exel
 gem 'hirb'
+gem 'byebug', '~> 11.1', '>= 11.1.3'
 
 
 # Use Redis adapter to run Action Cable in production
